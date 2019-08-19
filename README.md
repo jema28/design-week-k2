@@ -8,11 +8,11 @@
 
 10:00 - 10:45 [Intro to design thinking](https://docs.google.com/presentation/d/1R5oPzEO8KkuKlhJdSBP4zmLJCuSJO3lnrlnnccoOrM0/edit?usp=sharing) / research
 
-10:45 - 12:30 DISCOVERY Client Workshop: Big Picture Goals
+10:45 - 12:30 Discovery Client Workshop: Big Picture Goals
 
 12:30 - 13:30 LUNCH
 
-13:30 - 15:30 DEFINE Client Workshop: User Journeys and crazy eights
+13:30 - 15:30 Define Client Workshop: User Journeys and crazy eights
 
 15:30 - 16:30 Finding resources for design projects
 
