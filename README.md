@@ -6,7 +6,7 @@
 
 09:30 - 10:00 [Marshmallow challenge!](https://www.youtube.com/watch?v=BLWqjWXkTjQ)
 
-10:00 - 10:45 [Intro to design thinking](https://docs.google.com/presentation/d/1R5oPzEO8KkuKlhJdSBP4zmLJCuSJO3lnrlnnccoOrM0/edit?usp=sharing) / research
+10:00 - 10:45 [Intro to design thinking](https://docs.google.com/presentation/d/1R5oPzEO8KkuKlhJdSBP4zmLJCuSJO3lnrlnnccoOrM0/edit?usp=sharing) / [research](./research.md)
 
 10:45 - 12:30 Discovery Client Workshop: Big Picture Goals
 
