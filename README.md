@@ -14,7 +14,7 @@
 
 13:30 - 15:30 DEFINE Client Workshop: User Journeys and crazy eights
 
-15:30 - 16:30 [Finding resources for design projects](./design-resources.pdf)
+15:30 - 16:30 [Finding resources for design projects](./pdf-resources/design-resources.pdf)
 
 ### Day 2: Figma and creating prototypes
 
@@ -38,7 +38,7 @@
 
 ### Day 4: User testing
 
-08:30 - 09:00 Presentation on user testing
+08:30 - 09:00 [Presentation on user testing](./pdf-resources/user-testing.pdf)
 
 09:00 - 10:00 Finalise prototype and [write user testing scripts](https://github.com/foundersandcoders/master-reference/blob/master/coursebook/weeks-10-12/user-testing.md#3-test-day-pre-test)
 
@@ -52,7 +52,7 @@
 
 08:30 - 09:30 [Agile presentation](https://docs.google.com/presentation/d/1W0X8XRzGQQgGhiUb5uR7Kl0yDux-5Qs5rwc32r6oHzY/edit#slide=id.gcb9a0b074_1_0)
 
-09:30 - 12:30 Sprint planning
+09:30 - 12:30 [Sprint planning](https://www.notion.so/Sprint-planning-Gitflow-0335e9a797e24a75af265166c402d9b6)
 
 12:30 - 13:30 LUNCH
 
