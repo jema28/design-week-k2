@@ -14,7 +14,7 @@
 
 13:30 - 15:30 DEFINE Client Workshop: User Journeys and crazy eights
 
-15:30 - 16:30 Finding resources for design projects
+15:30 - 16:30 [Finding resources for design projects](./design-resources.pdf)
 
 ### Day 2: Figma and creating prototypes
 
