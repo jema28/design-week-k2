@@ -56,7 +56,7 @@
 
 ### Day 5: Agile and sprint planning
 
-08:30 - 09:30 [Agile presentation](https://docs.google.com/presentation/d/1W0X8XRzGQQgGhiUb5uR7Kl0yDux-5Qs5rwc32r6oHzY/edit#slide=id.gcb9a0b074_1_0)
+08:30 - 09:30 [Agile presentation](https://docs.google.com/presentation/d/1W0X8XRzGQQgGhiUb5uR7Kl0yDux-5Qs5rwc32r6oHzY/edit?usp=sharing)
 
 09:30 - 12:30 [Sprint planning](https://www.notion.so/Sprint-planning-Gitflow-0335e9a797e24a75af265166c402d9b6)
 
