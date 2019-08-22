@@ -14,7 +14,7 @@
 
 13:30 - 15:30 [Define Client Workshop: User Journeys and crazy eights](https://docs.google.com/presentation/d/1YQHd8zVobyNCMx36Cvzq0FOSNLsTXyy1dwpBIdfYvWM/edit#slide=id.g26a95a14fb_0_0) / [Mapping out user stories and journeys](https://docs.google.com/presentation/d/1JWVDThFGPnLyM5Dmw5hpN_6v87gHaj8_djWh1maTrBg/edit?usp=sharing)
 
-15:30 - 16:30 [Finding resources for design projects](./pdf-resources/design-resources.pdf)
+15:30 - 16:30 Amal learning
 
 ### Day 2: Figma and creating prototypes
 
@@ -22,15 +22,19 @@
 
 09:30 - 11:30 Figma demo
 
-11:30 - 12:30 Begin working on prototypes
+11:30 - 12:00 [Finding resources for design projects](./pdf-resources/design-resources.pdf)
+
+12:00 - 12:30 Begin working on prototypes
 
 12:30 - 13:30 LUNCH
 
-13:30 - 16:30 Work on prototypes
+13:30 - 15:30 Work on prototypes
+
+15:30 - 16:30 Amal learning
 
 ### Day 3: Working on prototypes
 
-08:30 - 09:30 CSS challenge
+08:30 - 09:30 From Figma to CSS, implementing themes in code
 
 09:30 - 12:30 Work on prototypes
 
