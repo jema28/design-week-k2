@@ -12,13 +12,15 @@
 
 12:30 - 13:30 LUNCH
 
-13:30 - 15:30 [Define Client Workshop: User Journeys and crazy eights](https://docs.google.com/presentation/d/1YQHd8zVobyNCMx36Cvzq0FOSNLsTXyy1dwpBIdfYvWM/edit#slide=id.g26a95a14fb_0_0)
+13:30 - 15:30 [Define Client Workshop: User Journeys and crazy eights](https://docs.google.com/presentation/d/1YQHd8zVobyNCMx36Cvzq0FOSNLsTXyy1dwpBIdfYvWM/edit#slide=id.g26a95a14fb_0_0) / [Mapping out user stories and journeys](https://docs.google.com/presentation/d/1JWVDThFGPnLyM5Dmw5hpN_6v87gHaj8_djWh1maTrBg/edit?usp=sharing)
 
 15:30 - 16:30 [Finding resources for design projects](./pdf-resources/design-resources.pdf)
 
 ### Day 2: Figma and creating prototypes
 
-08:30 - 11:30 Intro to design tools / Figma demo
+08:30 - 09:30 [Intro to figma / real world project presentation](./real-world-demo.md)
+
+09:30 - 11:30 Figma demo
 
 11:30 - 12:30 Begin working on prototypes
 
