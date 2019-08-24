@@ -6,13 +6,11 @@
 
 09:30 - 10:00 [Marshmallow challenge!](https://www.youtube.com/watch?v=BLWqjWXkTjQ)
 
-10:00 - 10:45 [Intro to design thinking](https://docs.google.com/presentation/d/1R5oPzEO8KkuKlhJdSBP4zmLJCuSJO3lnrlnnccoOrM0/edit?usp=sharing) / [research](./research.md)
-
-10:45 - 12:30 [Discovery Client Workshop: Big Picture Goals](https://docs.google.com/presentation/d/1G2T9D1J1-5gsS-fWjyfLU1vyST73qOrnCZ-IjCUHsJ4/edit?usp=sharing)
+10:00 - 12:30 [Intro to design thinking / Discovery Client Workshop](https://docs.google.com/presentation/d/1iX0pksXxyAOZ741gzEg-dr7eUZqXrLlWqiaD5YyBj1I/edit?usp=sharing)
 
 12:30 - 13:30 LUNCH
 
-13:30 - 15:30 [Define Client Workshop: User Journeys and crazy eights](https://docs.google.com/presentation/d/1YQHd8zVobyNCMx36Cvzq0FOSNLsTXyy1dwpBIdfYvWM/edit#slide=id.g26a95a14fb_0_0) / [Mapping out user stories and journeys](https://docs.google.com/presentation/d/1JWVDThFGPnLyM5Dmw5hpN_6v87gHaj8_djWh1maTrBg/edit?usp=sharing)
+13:30 - 15:30 [Define Client Workshop: User Journeys and crazy eights](https://docs.google.com/presentation/d/1gDgZv8Nz8vOCAM2scyqhVXIQZUEbFiccE-QqE1-9HK0/edit?usp=sharing)
 
 15:30 - 16:30 Amal learning
 
