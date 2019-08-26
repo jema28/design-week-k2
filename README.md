@@ -16,19 +16,19 @@
 
 ### Day 2: Figma and creating prototypes
 
-08:30 - 09:30 Mapping out user stories and crazy eights
+08:30 - 09:40 Mapping out user stories and crazy eights
 
-09:30 - 09:45 [Intro to figma / real world project presentation](./real-world-demo.md)
+09:40 - 10:10 [Intro to figma / real world project presentation](./real-world-demo.md)
 
-09:45 - 10:15 Figma demo
+10:20 - 11:00 Figma demo
 
-10:15 - 10:35 [Finding resources for design projects](./pdf-resources/design-resources.pdf)
-
-10:35 - 12:30 Begin working on prototypes
+11:00 - 12:30 Begin working on prototypes
 
 12:30 - 13:30 LUNCH
 
-13:30 - 15:30 Work on prototypes
+12:30 - 13:00 [Finding resources for design projects](./pdf-resources/design-resources.pdf)
+
+13:00 - 15:30 Work on prototypes
 
 15:30 - 16:30 Amal learning
 
