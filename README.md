@@ -16,13 +16,15 @@
 
 ### Day 2: Figma and creating prototypes
 
-08:30 - 09:30 [Intro to figma / real world project presentation](./real-world-demo.md)
+08:30 - 09:30 Mapping out user stories and crazy eights
 
-09:30 - 11:30 Figma demo
+09:30 - 09:45 [Intro to figma / real world project presentation](./real-world-demo.md)
 
-11:30 - 12:00 [Finding resources for design projects](./pdf-resources/design-resources.pdf)
+09:45 - 10:15 Figma demo
 
-12:00 - 12:30 Begin working on prototypes
+10:15 - 10:35 [Finding resources for design projects](./pdf-resources/design-resources.pdf)
+
+10:35 - 12:30 Begin working on prototypes
 
 12:30 - 13:30 LUNCH
 
