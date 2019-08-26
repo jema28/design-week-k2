@@ -34,9 +34,7 @@
 
 ### Day 3: Working on prototypes
 
-08:30 - 09:30 From Figma to CSS, implementing themes in code
-
-09:30 - 12:30 Work on prototypes
+08:30 - 12:30 Work on prototypes
 
 12:30 - 13:30 LUNCH
 
