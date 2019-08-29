@@ -20,7 +20,7 @@
 
 09:40 - 10:10 [Intro to figma / real world project presentation](./real-world-demo.md)
 
-10:20 - 11:00 Figma demo
+10:20 - 11:00 [Figma demo](https://www.figma.com/file/wiaXO6wWjwv4y6y3ygNCZA/Figma-Demo-v3.0?node-id=126%3A1395)
 
 11:00 - 12:30 Begin working on prototypes
 
